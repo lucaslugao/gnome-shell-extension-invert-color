@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <schemalist gettext-domain="gnome-shell-extensions">
-	<schema path="/org/gnome/shell/extensions/invert-window/" id="org.gnome.shell.extensions.invert-window">
-		<key type="as" name="invert-window-shortcut">
+	<schema path="/org/gnome/shell/extensions/invert-window-preserving-hue/" id="org.gnome.shell.extensions.invert-window-preserving-hue">
+		<key type="as" name="invert-window-preserving-hue-shortcut">
 			<default><![CDATA[['<Super>I']]]></default>
 		</key>
 	</schema>

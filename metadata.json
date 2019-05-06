@@ -1,11 +1,11 @@
 {
-	"uuid": "invert-window@maiself",
-	"name": "Invert Window Color",
-	"description": "Inverts the color of individual windows\nDefault shortcut is Super+I",
-	"url": "https://github.com/maiself/gnome-shell-extension-invert-color",
+	"uuid": "invert-window-preserving-hue@lucaslugao",
+	"name": "Invert Window Color Preserving HUE",
+	"description": "Inverts the color of individual windows preserving HUE\nDefault shortcut is Super+I",
+	"url": "https://github.com/lucaslugao/gnome-shell-extension-invert-color",
 	"shell-version": [
 		"3.32"
 	],
-	"settings-schema": "org.gnome.shell.extensions.invert-window",
+	"settings-schema": "org.gnome.shell.extensions.invert-window-preserving-hue",
 	"version": 5
 }
